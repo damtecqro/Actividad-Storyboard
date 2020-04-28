@@ -4,10 +4,10 @@ El objetivo de la actividad es reforzar el manejo del storyboard, objects, const
 Individualmente entregar la interfaz de su aplicación.
 
 ##Iphone 11
-<div style="text-align: right"><img src="/assets/start.png" width="200" /> <img src="/assets/next.png" width="200" /></div>
+<div style="text-align: right"><img src="/Assets/start.png" width="200" /> <img src="/Assets/next.png" width="200" /></div>
 
 ##Iphone 8
-<div style="text-align: right"><img src="/assets/start2.png" width="200" /> <img src="/assets/next2.png" width="200" /> <img src="/assets/next3.png" width="200" /></div>
+<div style="text-align: right"><img src="/Assets/start2.png" width="200" /> <img src="/Assets/next2.png" width="200" /> <img src="/Assets/next3.png" width="200" /></div>
 
 #### Objetos mínimos del storyboard para utilizar:
 	- 1 UIScrollView
